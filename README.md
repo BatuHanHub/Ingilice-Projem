@@ -1,10 +1,10 @@
 # Nasıl Kurulur Ve Çalıştırılır?
 
-**not: Başlamadan önce https://www.python.org/downloads/ sitesinden python 3 kurmanız gerekmektedir. Eğer GNU/Linux kullanıyorsanız uçbirimi açın ve aşağıdaki komutu yazınız;**
+**not: Başlamadan önce https://www.python.org/downloads/ sitesinden python 3 kurmanız gerekmektedir. Eğer GNU/Linux ve MacOS kullanıyorsanız uçbirimi açın ve aşağıdaki komutu yazınız;**
 
 `$python --version`
 
-**eğer python 3 ise kurmanıza gerek yoktur. Eğer python 3 değil ise Linux başlığına gidiniz.**
+**eğer python 3 ise kurmanıza gerek yoktur. Eğer python 3 değil ise Linux veya MacOS başlığına gidiniz.**
 
 # Windows
 - C:\Users\kullanıcıadı\Downloads klasörüne geliniz
@@ -46,4 +46,15 @@
 
 `$cd Ingilice-Projem-main`
 
+`$cd Program`
+
 burada çalıştıracağınız programı yazınız `$python program.py` ve program çalıştı.
+
+#MacOS
+
+- python-3.xx.x-macos11.pgk programını kurunuz
+- terminali açın ve şu komutu yazınız
+
+`$python3 program.py `
+
+#Bitti
