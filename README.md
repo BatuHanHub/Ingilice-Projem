@@ -43,6 +43,7 @@
 - şimdi çalıştırmak için uçbirime şu komutları yazınız;
 
 `$cd İndirilenler`
+
 `$cd Ingilice-Projem-main`
 
-burada çalıştıracağınız dosyayı yazınız`$python program.py` ve program çalıştı.
+burada çalıştıracağınız programı yazınız `$python program.py` ve program çalıştı.
