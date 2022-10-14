@@ -6,7 +6,7 @@
 
 **eğer python 3 ise kurmanıza gerek yoktur. Eğer python 3 değil ise Linux başlığına gidiniz.**
 
-#Windows
+# Windows
 - C:\Users\kullanıcıadı\Downloads klasörüne geliniz
 - python-3.xx.x-amd64.exe programını kurunuz 
 
@@ -16,7 +16,7 @@
 
 - kurulum bittikten sonra ingilizce projem.py nin üzerine çift tıklayarak programı çalıştırabilirsiniz
 
-#GNU/Linux 
+# GNU/Linux 
 - "Ingilice-Projem-main" zip dosyasını çıkarınız 
 
 - uçbirimi açınız şu komutu yazınız;
