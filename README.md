@@ -8,7 +8,8 @@
 
 **eğer python 3 ise kurmanıza gerek yoktur. Eğer python 3 değil ise Linux veya MacOS başlığına gidiniz.**
 
-# Windows
+# Windows 🟦🟦
+#         🟦🟦
 
 ![](https://logo-marque.com/wp-content/uploads/2021/02/Windows-New-Logo.png)
 
@@ -21,7 +22,7 @@
 
 - kurulum bittikten sonra ingilizce projem.py nin üzerine çift tıklayarak programı çalıştırabilirsiniz
 
-# GNU/Linux 
+# GNU/Linux 🐧
 
 ![](https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg)
 
