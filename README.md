@@ -1,4 +1,4 @@
-#Nasıl Kurulur Ve Çalıştırılır?
+# Nasıl Kurulur Ve Çalıştırılır?
 
 **not: Başlamadan önce https://www.python.org/downloads/ sitesinden python 3 kurmanız gerekmektedir. Eğer GNU/Linux kullanıyorsanız uçbirimi açın ve aşağıdaki komutu yazınız;**
 
