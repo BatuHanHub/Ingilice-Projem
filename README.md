@@ -6,6 +6,11 @@
 - Market ürünleri düzeltildi
 - Ascii yazıları eklendi.
 
+# Kurmadan Nasıl Çalıştırılır
+![](https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg)
+
+https://onlinegdb.com/EM07LReAt dan python kurmadan çalıştırabilirsiniz.
+
 # Nasıl Kurulur Ve Çalıştırılır?
 
 ![](https://www.qoppa.com/wp-content/uploads/cross-platform.png)
@@ -15,11 +20,6 @@
 `$python --version`
 
 **eğer python 3 ise kurmanıza gerek yoktur. Eğer python 3 değil ise Linux veya MacOS başlığına gidiniz.**
-
-# Kurmadan Nasıl Çalıştırılır
-![](https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg)
-
-https://onlinegdb.com/EM07LReAt dan python kurmadan çalıştırabilirsiniz.
 
 # Windows🟧🟩🟦🟨
       
