@@ -75,4 +75,19 @@ burada çalıştıracağınız programı yazınız `$python program.py` ve progr
 
 burada çalıştıracağınız programı yazınız `$python program.py` ve program çalıştı.
 
-## Kurulum tamamlandı...
+# Hangi program kimler için ve hangi programı kullanmalıyım
+
+### 3zuppeozel.py
+adı lazım değil 3 zuppe içindi o zuppelerde olmadığı için gerek yok.Altı boş kibirlerinden dolayı programa bakamazlar bile 😂. sadece kaynak kodu için yayınlandı. 
+
+### projem(eski).py
+projenin ilk haliydi. sadece kaynak kodu için yayınlandı
+
+### projem(güncellenmiş).py
+projenin 15.10.2022 tarihince güncelleme gelmiş halidir.
+
+## gelen yenilikler 🚀:
+- ufak hatalar giderildi 
+- süre kısmı düzeltildi artık 3 dakika
+- zorluk modu getirildi
+- tamamem ingilizce oldu
