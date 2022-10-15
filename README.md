@@ -9,7 +9,9 @@
 # Kurmadan Nasıl Çalıştırılır
 ![](https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg)
 
-https://onlinegdb.com/EM07LReAt dan python kurmadan çalıştırabilirsiniz.
+- Güncel sürüm: https://onlinegdb.com/EM07LReAt 
+- Eski sürüm: https://onlinegdb.com/-vUqf2k5Q
+- 3 Züppenin sürümü: https://onlinegdb.com/mnaiq8FHy
 
 # Nasıl Kurulur Ve Çalıştırılır?
 
