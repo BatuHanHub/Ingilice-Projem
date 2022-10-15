@@ -1,4 +1,4 @@
-# Yeni Gelen Yenilikler 🚀:
+# Yeni Gelen Yenilikler 🚀
 - Ufak hatalar giderildi.
 - Süre kısmı düzeltildi artık 3 dakika.
 - Zorluk modu getirildi. (easy mod = 5) ( normal mod = 8) (hard mod = 12)
