@@ -13,6 +13,7 @@
 - Eski sürüm: https://onlinegdb.com/-vUqf2k5Q
 - 3 Züppenin sürümü: https://onlinegdb.com/mnaiq8FHy
 
+**not: Android ve İOS kullanıcıları sadece linklerle kodu çalıştırabilir**
 # Nasıl Kurulur Ve Çalıştırılır?
 
 ![](https://www.qoppa.com/wp-content/uploads/cross-platform.png)
