@@ -2,7 +2,7 @@
 
 ![](https://www.qoppa.com/wp-content/uploads/cross-platform.png)
 
-**not: Başlamadan önce https://www.python.org/downloads/ sitesinden python 3 kurmanız gerekmektedir. Eğer GNU/Linux ve MacOS kullanıyorsanız uçbirimi açın ve aşağıdaki komutu yazınız;**
+**not: Başlamadan önce https://www.python.org/downloads/ sitesinden python 3 kurmanız gerekmektedir. Eğer hangi python sürümünü kullandığınızı bilmiyorsanız uçbirimi/terminal/cmd yi açın ve aşağıdaki komutu yazınız;**
 
 `$python --version`
 
