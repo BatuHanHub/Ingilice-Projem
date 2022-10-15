@@ -1,3 +1,11 @@
+# Yeni Gelen Yenilikler 🚀:
+- Ufak hatalar giderildi.
+- Süre kısmı düzeltildi artık 3 dakika.
+- Zorluk modu getirildi. (easy mod = 5) ( normal mod = 8) (hard mod = 12)
+- Tamamem ingilizce yapıldı.
+- Market ürünleri düzeltildi
+- Ascii yazıları eklendi.
+
 # Nasıl Kurulur Ve Çalıştırılır?
 
 ![](https://www.qoppa.com/wp-content/uploads/cross-platform.png)
@@ -90,9 +98,3 @@ projenin ilk haliydi. sadece kaynak kodu için yayınlandı
 
 ### projem(güncellenmiş).py
 projenin 15.10.2022 tarihince güncelleme gelmiş halidir.
-
-## gelen yenilikler 🚀:
-- ufak hatalar giderildi 
-- süre kısmı düzeltildi artık 3 dakika
-- zorluk modu getirildi
-- tamamem ingilizce oldu
