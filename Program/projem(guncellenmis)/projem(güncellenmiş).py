@@ -78,7 +78,7 @@ while True:
 
     break
 
-Time = 3
+Time = 180
 
 while Time:
     minute  = Time // 60
