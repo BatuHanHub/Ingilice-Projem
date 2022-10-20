@@ -11,7 +11,6 @@
 
 - Güncel sürüm: https://onlinegdb.com/EM07LReAt 
 - Eski sürüm: https://onlinegdb.com/-vUqf2k5Q
-- 3 Züppenin sürümü: https://onlinegdb.com/mnaiq8FHy
 
 **not: Android ve İOS kullanıcıları sadece linklerle kodu çalıştırabilir**
 # Nasıl Kurulur Ve Çalıştırılır?
@@ -91,10 +90,7 @@ burada çalıştıracağınız programı yazınız `$python program.py` ve progr
 
 burada çalıştıracağınız programı yazınız `$python program.py` ve program çalıştı.
 
-# Hangi program kimler için ve hangi programı kullanmalıyım
-
-### 3zuppeozel.py
-adı lazım değil 3 zuppe içindi o zuppelerde olmadığı için gerek yok.Altı boş kibirlerinden dolayı programa bakamazlar bile 😂. sadece kaynak kodu için yayınlandı. 
+# Hangi programı kullanmalıyım
 
 ### projem(eski).py
 projenin ilk haliydi. sadece kaynak kodu için yayınlandı
