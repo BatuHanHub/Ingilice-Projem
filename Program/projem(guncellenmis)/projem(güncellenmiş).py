@@ -1,7 +1,19 @@
 import random
 import time
+import os
 
-###############değişkenler###################
+OpeSys = os.name
+#Windows için
+if OpeSys == "nt":
+    OpeSysClr = 'cls'
+    os.system(OpeSysClr)
+    
+#Linux ve macOS için    
+elif OpeSys == "poxit":
+    OpeSysClr = 'clear'
+    os.system(OpeSysClr)
+
+#DEĞİŞKENLER
 fruits = "Strawberry\n","Cherry\n","Grapes\n","Walnut\n"
 vegetables = "Pepper\n","Bell Pepper\n","Bread\n","Basil\n","Carrot\n","Cabbage\n","Lemon\n","Mushroom\n","Parsley\n","Eggplant\n","Mint\n","Potato\n","Cheese\n","Garlic\n","Onion\n","Tomato\n","Cucumber\n","Ginger\n"
 meats = "Fish\n","Beef\n","Mince\n","chicken meat\n"
@@ -9,10 +21,9 @@ boxed_bottled = "Milk\n","Pasta\n","Sunflower Oil\n","Olive Oil\n"
 spices_powders = "Salt\n","Sugar\n","Flour\n","Black Pepper\n","Baking Powder\n","Cumin\n","Lentil\n","Rice\n","Chili Pepper\n","Butter\n"
 
 All = fruits+vegetables+meats+boxed_bottled+spices_powders
-##############################################
+
 
 print ( """
-
    _____ _____  _        ____         ___  
   / ____|  __ \| |      |___ \       / _ \ 
  | |  __| |__) | |        __) |     | | | |
@@ -20,7 +31,7 @@ print ( """
  | |__| | |    | |____   ___) |  _  | |_| |
   \_____|_|    |______| |____/  (_)  \___/                                                 
        
-İngilizce Projem, sürüm 2.0 -sürüm (x86_x64)
+İngilizce Projem, sürüm 3.0 -sürüm (x86_x64)
 Lisans GPLv3+ : GNU GPL sürüm 3 <https://www.gnu.org/licenses/gpl-3.0.html>
 telif hakkı (C) 2022 BatuHanHub 
 
@@ -32,43 +43,37 @@ print("******Welcome to English Market!******\n")
 team1 = str(input("Enter the name of the 1st team:"))
 team2 = str(input("Enter the name of the 2nd team:"))
 
+os.system(OpeSysClr)
 
 while True:
 
-    difficulty = str(input('''
-                   
-        Difficulty levels;
+    difficulty = str(input('''      Difficulty levels;
       
-    #############################
-    type "e/E" for easy mode   (5)
-    type "n/N" for normal mode (8)
-    type "h/H" for hard mode   (10)
-    #############################
+#############################
+type "e/E" for easy mode   (5)
+type "n/N" for normal mode (8)
+type "h/H" for hard mode   (10)
+#############################
       
-        >>>'''))
+>>>'''))
     
     if difficulty == ("e" or "E"):
         length = 5
+        os.system(OpeSysClr)
     
     elif difficulty == ("n" or "N"):
         length = 8
+        os.system(OpeSysClr)
     
     elif difficulty == ("h" or "H"):
         length = 12
+        os.system(OpeSysClr)
     
     elif difficulty != ("e" , "E" , "n" , "N" , "h" , "H"):
-        print('''Error: write your difficulty level
-          
-            Difficulty levels;
-      
-        #############################
-        type "e/E" for easy mode   *
-        type "n/N" for normal mode **
-        type "h/H" for hard mode   ***
-        #############################
-      
-            ''') 
+        os.system(OpeSysClr)
         continue 
+    
+    
     
     List1 = "".join(random.sample(All,length))
     List2 = "".join(random.sample(All,length))
@@ -89,6 +94,7 @@ while Time:
     Time -= 1
     
     if Time == 0:
+        os.system(OpeSysClr)
         print("""      
   _______ _                _                   
  |__   __(_)              ( )                  
