@@ -92,4 +92,4 @@ burada çalıştıracağınız programı yazınız `$python program.py` ve progr
 projenin ilk haliydi. sadece kaynak kodu için yayınlandı
 
 ### projem(güncellenmiş).py
-projenin 15.10.2022 tarihince güncelleme gelmiş halidir.
+projenin 25.12.2022 tarihince güncelleme gelmiş halidir.
