@@ -1,15 +1,11 @@
 # Yeni Gelen Yenilikler 🚀
-- Ufak hatalar giderildi.
-- Süre kısmı düzeltildi artık 3 dakika.
-- Zorluk modu getirildi. (easy mod = 5) ( normal mod = 8) (hard mod = 12)
-- Tamamem ingilizce yapıldı.
-- Market ürünleri düzeltildi
-- Ascii yazıları eklendi.
+- Temizlenebilir terminal
+- Kodlarda düzenlemeler
 
 # Kurmadan Nasıl Çalıştırılır
 ![](https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg)
 
-- Güncel sürüm: https://onlinegdb.com/EM07LReAt 
+- Güncel sürüm(2.0): https://onlinegdb.com/EM07LReAt 
 - Eski sürüm: https://onlinegdb.com/-vUqf2k5Q
 
 **not: Android ve İOS kullanıcıları sadece linklerle kodu çalıştırabilir**
