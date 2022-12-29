@@ -9,7 +9,7 @@ if OpeSys == "nt":
     os.system(OpeSysClr)
     
 #Linux ve macOS için    
-elif OpeSys == "poxit":
+elif OpeSys == "posix":
     OpeSysClr = 'clear'
     os.system(OpeSysClr)
 
